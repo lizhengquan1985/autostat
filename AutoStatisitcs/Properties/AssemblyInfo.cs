@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("AutoStatistics")]
+[assembly: AssemblyTitle("AutoStatisitcs")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AutoStatistics")]
+[assembly: AssemblyProduct("AutoStatisitcs")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("0c4941de-60ce-40f9-b076-46a675e253cd")]
+[assembly: Guid("7e5f78e4-561d-4964-85a6-89ac3afe38d7")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

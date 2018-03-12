@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C4941DE-60CE-40F9-B076-46A675E253CD}</ProjectGuid>
+    <ProjectGuid>{7E5F78E4-561D-4964-85A6-89AC3AFE38D7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AutoStatistics</RootNamespace>
-    <AssemblyName>AutoStatistics</AssemblyName>
+    <RootNamespace>AutoStatisitcs</RootNamespace>
+    <AssemblyName>AutoStatisitcs</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
